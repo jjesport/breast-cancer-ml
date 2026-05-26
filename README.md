@@ -18,4 +18,4 @@ https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 Decision Tree, Random Forest, Support Vector Machine (SVM), K-Means, DBSCAN, Deep Neural Networks, GridSearchCV, Cross Validation, StandardScaler, PCA, Confusion Matrix, Classification Report
 
 ## Links
-### [Video](https://youtu.be/pgHjidt_Ik0)
+### [Video](https://www.youtube.com/watch?v=vvj2-KCaLIg)
